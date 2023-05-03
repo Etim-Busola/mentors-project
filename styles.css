@@ -139,18 +139,19 @@ p{
     padding-top: 8px;
 }
 input{
-    padding: 8px 14px;
-    border-radius: 50px;
-    width: 120px;
+     padding: 8px 14px;
+    width:100%;
+    display: block;
    font-size: 8px;
 }
 button{
+    margin-top: 20px;
     padding: 8px 14px;
-    width:90px;   
-    font-size: 8px;                    
+    width:100%;   
+    font-size: 8px;              
 } 
 img{
-    width: 250px;
+    width: 150px;
     height: 200px;  
 }     
 a{
